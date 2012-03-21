@@ -11,7 +11,7 @@
                 "windows": [
                     {
                         "version": "1.0.0",
-                        "url": "https://raw.github.com/NicholasBuse/sublime_CodeAlignment/raw/master/v1.0.0/CodeAlignment.sublime-package"
+                        "url": "https://raw.github.com/NicholasBuse/sublime_CodeAlignment/master/v1.0.0/CodeAlignment.sublime-package"
                     }
                 ]
             }
