@@ -26,11 +26,10 @@
                 "*": [
                     {
                         "version": "1.0.0",
-                        "url": "https://raw.github.com/NicholasBuse/sublime_DeleteBlankLines/zipball/master"
+                        "url": "https://nodeload.github.com/NicholasBuse/sublime_DeleteBlankLines/zipball/master"
                     }
                 ]
             }
         }
-
     ]
 }
