@@ -6,12 +6,12 @@
             "description": "This plugin implements an interface from ST2 to CodeAlignment for VS and Notepad++",
             "author": "Nicholas Buse (@NicholasBuse)",
             "homepage": "http://www.codealignment.com/",
-            "last_modified": "2012-03-22 08:00:00",
+            "last_modified": "2012-05-09 07:00:00",
             "platforms": {
                 "windows": [
                     {
-                        "version": "1.0.2",
-                        "url": "https://raw.github.com/NicholasBuse/sublime_CodeAlignment/master/v1.0.2/Code Alignment.sublime-package"
+                        "version": "1.0.3",
+                        "url": "https://raw.github.com/NicholasBuse/sublime_CodeAlignment/master/v1.0.3/Code Alignment.sublime-package"
                     }
                 ]
             }
