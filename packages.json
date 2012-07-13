@@ -21,12 +21,12 @@
             "description": "This plugin deletes blank (or surplus blank) lines from a selection",
             "author": "Nicholas Buse (@NicholasBuse)",
             "homepage": "https://github.com/NicholasBuse/sublime_DeleteBlankLines",
-            "last_modified": "2012-07-12 21:00:00",
+            "last_modified": "2012-07-13 08:00:00",
             "platforms": {
                 "*": [
                     {
-                        "version": "1.0.2",
-                        "url": "https://nodeload.github.com/NicholasBuse/sublime_DeleteBlankLines/zipball/660a61beaba89e3235cb890cee585ec5bbc1cad3"
+                        "version": "1.0.3",
+                        "url": "https://nodeload.github.com/NicholasBuse/sublime_DeleteBlankLines/zipball/6870e52178e669823ea4ec95990212b747fd4c25"
                     }
                 ]
             }
