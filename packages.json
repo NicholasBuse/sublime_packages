@@ -1,17 +1,19 @@
 {
-    "schema_version": "1.2",
+    "schema_version": "2.0",
     "packages": [
         {
             "name": "Code Alignment",
             "description": "This plugin implements an interface from ST2 to CodeAlignment for VS and Notepad++",
             "author": "Nicholas Buse (@NicholasBuse)",
             "homepage": "http://www.codealignment.com/",
-            "last_modified": "2012-05-09 07:00:00",
+            "last_modified": "2013-08-12 08:00:00",
+            "readme": "https://github.com/NicholasBuse/sublime_CodeAlignment/blob/master/README.md",
             "platforms": {
                 "windows": [
                     {
                         "version": "1.0.3",
-                        "url": "https://raw.github.com/NicholasBuse/sublime_CodeAlignment/master/v1.0.3/Code Alignment.sublime-package"
+                        "url": "https://raw.github.com/NicholasBuse/sublime_CodeAlignment/master/v1.0.3/Code Alignment.sublime-package",
+                        "sublime_text": "<3000",
                     }
                 ]
             }
@@ -21,7 +23,8 @@
             "description": "This plugin deletes blank (or surplus blank) lines from a selection",
             "author": "Nicholas Buse (@NicholasBuse)",
             "homepage": "https://github.com/NicholasBuse/sublime_DeleteBlankLines",
-            "last_modified": "2013-03-08 09:00:00",
+            "last_modified": "2013-08-12 08:00:00",
+            "readme": "https://github.com/NicholasBuse/sublime_DeleteBlankLines/blob/v1.0.4/README.md",
             "platforms": {
                 "*": [
                     {
