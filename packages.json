@@ -13,7 +13,7 @@
                     "version": "1.0.3",
                     "url": "https://raw.github.com/NicholasBuse/sublime_CodeAlignment/master/v1.0.3/Code Alignment.sublime-package",
                     "sublime_text": "<3000",
-                    "platforms": ["windows-x86"]
+                    "platforms": ["windows-x32"]
                 }
             ]
         },
