@@ -4,7 +4,7 @@
         {
             "name": "Code Alignment",
             "description": "Implements an interface from ST2 to CodeAlignment for VS and Notepad++",
-            "author": "Nicholas Buse (@NicholasBuse)",
+            "author": "Nicholas Buse",
             "homepage": "http://www.codealignment.com/",
             "details": "https://github.com/NicholasBuse/sublime_CodeAlignment",
             "releases": [
@@ -20,7 +20,7 @@
         {
             "name": "DeleteBlankLines",
             "description": "Deletes blank (or surplus blank) lines from a selection",
-            "author": "Nicholas Buse (@NicholasBuse)",
+            "author": "Nicholas Buse",
             "details": "https://github.com/NicholasBuse/sublime_DeleteBlankLines",
             "releases": [
                 {
