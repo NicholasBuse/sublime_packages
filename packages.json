@@ -28,6 +28,18 @@
                     "details": "https://github.com/NicholasBuse/sublime_DeleteBlankLines/tags"
                 }
             ]
+        },
+        {
+            "name": "SREC",
+            "description": "SREC file format syntax definition for ST3",
+            "author": "Nicholas Buse",
+            "details": "https://github.com/NicholasBuse/srec_syntax",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/NicholasBuse/srec_syntax/tags"
+                }
+            ]
         }
     ]
 }
